@@ -1,4 +1,5 @@
-#posgresql
+## posgresql
+
 *postgresql.conf*
 /posgresql/data/posgresql.conf
 *hg_hba.conf*
