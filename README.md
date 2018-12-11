@@ -9,18 +9,17 @@
 /posgresql/data/pg_ident.conf
 
 
+list
+https://github.com/dhamaniasad/awesome-postgres
 
+```
+```
 
+```
+```
 
-
-
-
-
-
-
-
-
-
+```
+```
 
 
 
